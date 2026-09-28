@@ -111,6 +111,19 @@ The published work positions the current models as a starting point for more adv
 
 ---
 
+## My Contribution
+
+As the first author of this research, my contributions included:
+
+- Contributing to the formulation of the research problem and overall study methodology.
+- Preparing and preprocessing the autism screening dataset for model development.
+- Implementing the regularized DQN-inspired neural network and transformer-based model in Python.
+- Training and evaluating the models using accuracy, precision, recall, F1-score, and AUC-ROC.
+- Performing model performance analysis, including confusion-matrix and training/validation analysis.
+- Conducting feature-importance analysis to investigate influential behavioral and demographic predictors.
+- Interpreting the experimental results and identifying limitations and directions for future longitudinal reinforcement-learning research.
+- Contributing to the literature review, manuscript preparation, technical writing, and revision of the published paper.
+
 ## Repository Structure
 
 ```text
