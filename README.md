@@ -124,6 +124,25 @@ As the first author of this research, my contributions included:
 - Interpreting the experimental results and identifying limitations and directions for future longitudinal reinforcement-learning research.
 - Contributing to the literature review, manuscript preparation, technical writing, and revision of the published paper.
 
+## Limitations
+
+This study has several important limitations:
+
+- The reinforcement-learning component is **DQN-inspired** rather than a fully deployed reinforcement-learning environment.
+- The dataset is relatively small, with 704 records.
+- The study uses static screening data rather than longitudinal therapy-session data.
+- The models have not been validated in real clinical deployment settings.
+- Future work should evaluate the approach using larger, more diverse datasets and real sequential feedback from therapy sessions.
+- Ethical considerations such as informed consent, privacy, bias, and responsible use are essential for any future clinical application.
+
+## How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mahdiaamina89/AI-Powered-Autism-Screening-and-Personalized-Therapy.git
+cd AI-Powered-Autism-Screening-and-Personalized-Therapy
+
 ## Repository Structure
 
 ```text
