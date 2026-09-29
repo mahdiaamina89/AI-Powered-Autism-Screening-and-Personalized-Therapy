@@ -135,13 +135,6 @@ This study has several important limitations:
 - Future work should evaluate the approach using larger, more diverse datasets and real sequential feedback from therapy sessions.
 - Ethical considerations such as informed consent, privacy, bias, and responsible use are essential for any future clinical application.
 
-## How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/mahdiaamina89/AI-Powered-Autism-Screening-and-Personalized-Therapy.git
-cd AI-Powered-Autism-Screening-and-Personalized-Therapy
 
 ## Repository Structure
 
